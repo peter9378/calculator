@@ -33,6 +33,7 @@ int main(int argc, char* argv[])
 	
 	printf("result is %d.\n", c);
 	
+	
 	return 0;
 }
  
@@ -44,7 +45,7 @@ int add(int a, int b)
 int sub(int a, int b)
 {
 	//TODO implementation
-	return 0;
+	return a - b;
 }
  
 int multi(int a, int b)
