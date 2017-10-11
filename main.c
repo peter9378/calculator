@@ -8,6 +8,7 @@ int multi(int, int);
  
 int main(int argc, char* argv[])
 {
+	// ============여기가 충돌날부분===============
 	int a, b, c;
 	char operator;
 	
